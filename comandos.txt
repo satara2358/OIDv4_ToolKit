@@ -1,0 +1,1 @@
+-> python main.py downloader --classes Vehicle_registration_plate --type_csv train --limit 1000
